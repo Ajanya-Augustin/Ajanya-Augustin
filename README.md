@@ -15,7 +15,8 @@
 ---
 
 ## 🌱 Currently Learning
-![Currently Learning](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajanya-Augustin&layout=compact&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+[![Currently Learning](https://github-readme-stats.vercel.app/api/pin/?username=Ajanya-Augustin&repo=github-readme-stats&layout=compact&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Ajanya-Augustin)
 
 ---
 
