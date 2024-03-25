@@ -16,12 +16,17 @@
 
 ## 🌱 Currently Learning
 
-[![Currently Learning](https://github-readme-stats.vercel.app/api/pin/?username=Ajanya-Augustin&repo=github-readme-stats&layout=compact&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Ajanya-Augustin/github-readme-stats)
-
----
+| Technology | Progress |
+|------------|----------|
+| Django     | 40%      |
+| Flask      | 40%      |
+| Pyspark    | 80%      |
 
 ## 🚀 Fields of Interest
-![Fields of Interest](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajanya-Augustin&layout=compact&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff)
+
+| Web Development | Data Science | Machine Learning |
+|-----------------|--------------|------------------|
+| ![Web Development](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | ![Data Science](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg) | ![Machine Learning](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) |
 
 ---
 
