@@ -26,7 +26,7 @@
 
 | Web Development | Python       | Data Engineering |
 |-----------------|--------------|------------------|
-| ![Web Development](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | ![Data Science](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![Machine Learning](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) |
+| ![Web Development](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![Data Engineering](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) |
 
 ---
 
