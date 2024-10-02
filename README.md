@@ -1,7 +1,7 @@
 # Hi there, I'm Ajanya Augustin 👋
 
 📍 **Location**: Thrissur, Kerala  
-👨‍💻 **Current Job**: Python Developer at Infosys  
+👨‍💻 **Current Job**: Azure Data Engineer at Infosys  
 🎓 **Education**:  
 - Self-Taught Developer  
 - Bachelor's in Civil Engineering  
@@ -10,7 +10,7 @@
 ---
 
 ## 🛠️ Technical Background
-- Systems Engineer at Infosys  
+- Senior Systems Engineer at Infosys  
 
 ---
 
@@ -18,21 +18,21 @@
 
 | Technology | Progress |
 |------------|----------|
-| Django     | 40%      |
-| Flask      | 40%      |
+| Python     | 90%      |
 | Pyspark    | 80%      |
+| Flask      | 40%      |
 
 ## 🚀 Fields of Interest
 
-| Web Development | Data Science | Machine Learning |
+| Web Development | Python       | Data Engineering |
 |-----------------|--------------|------------------|
-| ![Web Development](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | ![Data Science](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg) | ![Machine Learning](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) |
+| ![Web Development](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | ![Data Science](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![Machine Learning](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) |
 
 ---
 
 ## 🎯 2024 Goals
 - Create 10+ Projects  
-- Learn at least 4-8 new Technologies
+- Learn at least 2 new Technologies
 
 ---
 
