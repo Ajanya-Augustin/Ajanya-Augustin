@@ -4,7 +4,6 @@
 👨‍💻 **Current Job**: Azure Data Engineer at Infosys  
 🎓 **Education**:  
 - Self-Taught Developer  
-- Bachelor's in Civil Engineering  
 
 🏢 **Company**: [Infosys]
 ---
