@@ -9,23 +9,23 @@
 ---
 
 ## 🛠️ Technical Background
-- Senior Systems Engineer at Infosys  
+- Digital Specialist Engineer  at Infosys  
 
 ---
 
 ## 🌱 Currently Learning
 
-| Technology | Progress |
-|------------|----------|
-| Python     | 90%      |
-| Pyspark    | 80%      |
-| Flask      | 40%      |
+| Technology              | Progress |
+|-------------------------|----------|
+| Python                  | 90%      |
+| Pyspark                 | 80%      |
+| Azure Data Factory      | 40%      |
 
 ## 🚀 Fields of Interest
 
-| Web Development | Python       | Data Engineering |
+| Generative AI   | Python       | Data Engineering |
 |-----------------|--------------|------------------|
-| ![Web Development](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![Data Engineering](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) |
+| ![Web Development] | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![Data Engineering](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) |
 
 ---
 
