@@ -25,12 +25,11 @@
 
 | Generative AI   | Python       | Data Engineering |
 |-----------------|--------------|------------------|
-| ![Web Development] | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![Data Engineering](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) |
+| ![Generative AI](https://github.com/Ajanya-Augustin/Ajanya-Augustin/blob/main/artificial-intelligence.png?raw=true) | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![Data Engineering](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) |
 
 ---
 
 ## 🎯 2024 Goals
-- Create 10+ Projects  
 - Learn at least 2 new Technologies
 
 ---
