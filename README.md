@@ -23,9 +23,9 @@
 
 ## 🚀 Fields of Interest
 
-| Generative AI   | Python       | Data Engineering |
-|-----------------|--------------|------------------|
-| ![Generative AI](https://github.com/Ajanya-Augustin/Ajanya-Augustin/blob/main/artificial-intelligence.png?raw=true) | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![Data Engineering](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg) |
+| Generative AI | Python | Data Engineering |
+|---|---|---|
+| <img src="https://github.com/Ajanya-Augustin/Ajanya-Augustin/blob/main/artificial-intelligence.png?raw=true" alt="Generative AI" width="80" height="80"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="Data Engineering" width="80" height="80"> |
 
 ---
 
